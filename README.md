@@ -1,6 +1,6 @@
 # SQL-Advanced-Course-Project
 
-##Question 1:
+# Question 1:
 
 Level: Simple
 
@@ -14,7 +14,7 @@ Answer: 9.99
 
 
 
-Question 2:
+# Question 2:
 
 Level: Moderate
 
@@ -34,7 +34,7 @@ Answer: 514
 
 
 
-Question 3:
+# Question 3:
 
 Level: Moderate
 
@@ -48,7 +48,7 @@ Answer: Sports and 184
 
 
 
-Question 4:
+# Question 4:
 
 Level: Moderate
 
@@ -62,7 +62,7 @@ Answer: Sports with 74 titles
 
 
 
-Question 5:
+# Question 5:
 
 Level: Moderate
 
@@ -76,7 +76,7 @@ Answer: Susan Davis with 54 movies
 
 
 
-Question 6:
+# Question 6:
 
 Level: Moderate
 
@@ -90,7 +90,7 @@ Answer: 4
 
 
 
-Question 7:
+# Question 7:
 
 Level: Moderate
 
@@ -104,7 +104,7 @@ Answer: Cape Coral with a total amount of 221.55
 
 
 
-Question 8:
+# Question 8:
 
 Level: Moderate to difficult
 
@@ -118,7 +118,7 @@ Answer: United States, Tallahassee with a total amount of 50.85.
 
 
 
-Question 9:
+# Question 9:
 
 Level: Difficult
 
@@ -132,7 +132,7 @@ Answer: staff_id 2 with an average revenue of 56.64 per customer.
 
 
 
-Question 10:
+# Question 10:
 
 Level: Difficult to very difficult
 
